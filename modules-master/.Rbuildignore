@@ -1,0 +1,8 @@
+devel\.Rprofile
+\.gitignore
+CHANGES\.md
+Makefile
+README\.md
+printenv\.r
+^\..+
+^\.travis\.yml$
